@@ -7,7 +7,7 @@ Parameters:
     Description: The name of the environment to add this service to
   ServiceName:
     Type: String
-    Default: datetime
+    Default: prod-datetime
     Description: A name for the service
   ImageURI:
     Type: String
